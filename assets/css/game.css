@@ -1,0 +1,48 @@
+body {
+    color:#fff;
+}
+
+/* styling the pick container */
+
+.pick-container {
+    display: flex;
+    margin-bottom: 0.8rem;
+    width: 100%;
+    border-radius: 5px;
+    font-size: 3rem;
+    background: rgb(18, 93, 255);
+}
+
+.pick-container:hover {
+    cursor: pointer;
+    box-shadow: 0 0.4rem 1.4rem 0 rgba(6, 103, 247, 0.5);
+    transform: scale(1.02);
+    transform: transform 100ms;
+}
+
+.pick-prefix {
+    padding: 2rem 2.5rem;
+    color: #fff;
+}
+
+.pick-text {
+    padding: 2rem;
+    width: 100%;
+}
+
+
+/* Heads up display styling */
+
+#hud {
+    display: flex;
+    justify-content: space-between;
+}
+
+.hud-prefix {
+    text-align: center;
+    font-size: 2rem;
+}
+
+.hud-main-text {
+    text-align: center;
+}
