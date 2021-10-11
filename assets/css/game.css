@@ -55,3 +55,9 @@ body {
     border-radius: 50px;
     overflow: hidden;
 } 
+
+#progressBarFull {
+    height: 100%;
+    background: green;
+    width: 0%;
+}
