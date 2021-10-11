@@ -1,5 +1,6 @@
 body {
-    background: black;
+    background-image: url(/assets/css/images/wp2687705-sheldon-cooper-wallpapers.jpg);
+    background-repeat: no-repeat;
 }
 
 * {
@@ -95,5 +96,5 @@ h2 {
 .fa-play {
     font-size: 2.5rem;
     margin-left: 1rem;
-
+    
 }
