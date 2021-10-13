@@ -92,5 +92,23 @@ picks.forEach(pick => {
         const selectedAnswer = selectedPick.dataset ['number']
 
         let classToApply = selectedAnswer == currentQuestion.answer ? 'correct' : 'incorrect'
+        
+        if(classToApply === 'correct') {
+            incrementScore(SCORE_POINTS)
+        }
+
+        selectedPick.parentElement.classList.add(classToApply)
+
+        setTimeout(() => {
+             selectedPick.parentElement.classList.remove(classToApply)
+             getNewQuestion()  
+        }, 1000 )
     })
 })
+
+incrementScore = num => {
+    score +=num
+    scoreText.innerText = score
+}
+
+startGame()
