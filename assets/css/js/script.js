@@ -78,4 +78,19 @@ getNewQuestion = () => {
     })
 
     availableQuestions.splice(questionIndex, 1)
+
+    acceptingAnswers = true
 }
+
+
+picks.forEach(pick => {
+    pick.addEventListener('click', e => {
+        if(!acceptingAnswers) return
+
+        acceptingAnswers = false
+        const selectedPick = e.target
+        const selectedAnswer = selectedPick.dataset ['number']
+
+        let classToApply = selectedAnswer == currentQuestion.answer ? 'correct' : 'incorrect'
+    })
+})
