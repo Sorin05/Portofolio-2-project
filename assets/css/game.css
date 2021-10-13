@@ -30,6 +30,14 @@ body {
     width: 100%;
 }
 
+.correct {
+    background: linear-gradient(32deg green) 0%, green 100%;
+}
+
+.incorrect {
+    background: linear-gradient(32deg red) 0%, red 100%;
+}
+
 
 /* Heads up display styling */
 
