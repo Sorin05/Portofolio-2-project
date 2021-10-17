@@ -98,3 +98,49 @@ h2 {
     margin-left: 1rem;
     
 }
+
+/* End Page CSS */
+
+.fa-home {
+    font-size: 2.5rem;
+    margin-left: 1rem;
+}
+
+.end-form-container {
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    align-items: center;
+    max-width: 30rem;
+
+}
+
+input {
+    width: 20rem;
+    padding: 1.5rem;
+    font-size: 1.8rem;
+    border: none;
+    box-shadow: 0 0.1rem 1.4rem 0 rgba(86, 185, 235, 0.5)
+}
+
+input::placeholder {
+    color: #aaa;
+}
+
+#username {
+    margin-bottom: 3rem;
+    outline: none;
+    width: 100%;
+}
+
+#end-text {
+    font-size: 2.4rem;
+    color: white;
+    text-align: center;
+    
+}
+
+#saveScoreBtn {
+    border: none;
+
+}
