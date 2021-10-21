@@ -21,6 +21,7 @@ This game is targeted towards people who are fans of the acclaimed tv series.
 * Create a quiz game site that is easy to navigate through.
 * Create a site that is simple in appearance by adding basic colours and layouts.
 * Provide the game with some humour for a more meaningful user experience.
+* If you have a big enough screen I added an "easter egg" or if you inspect the background ;)
 
 
   * Icons:
