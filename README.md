@@ -36,3 +36,20 @@ This game is targeted towards people who are fans of the acclaimed tv series.
 #### Navigation
 
 - The game and highscores page  have a home icon that allows the user to return to the home screen. This allows the user to navigate to play the game or see highest score.
+
+
+#### Audio
+
+- When clicked on, the icon changes it's colour to red if the answer it's wrong and when the answer its correct the colour changes to green and plays a sound.
+
+
+### Credits
+
+* [Am I Responsive](http://ami.responsivedesign.is/#) is used to display responsiveness on different devices.
+
+* Code Institute "Love Maths" project and Dev Ed on youtube provided me with inspiration for the project.
+
+
+#### Browser Testing
+
+The site was tested on multiple browsers such as Chrome, Safari, FireFox, and works as intended.
