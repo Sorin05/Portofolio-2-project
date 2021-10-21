@@ -91,7 +91,7 @@ The site was tested on multiple browsers such as Chrome, Safari, FireFox, and wo
 
     1. Log into GitHub.
 
-    2. Select the repository for the Code-Nect project. (https://github.com/Sorin05/Portofolio-2-project)
+    2. Select the repository for the "Quiz-Game" project. (https://github.com/Sorin05/Portofolio-2-project)
 
     3. Navigate to and click on 'Settings'.
 
