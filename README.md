@@ -1,6 +1,6 @@
 # Quiz Game!
 
-![alt](https://github.com/Sorin05/Portofolio-2-project/blob/main/documents/Capture.PNG?raw=true)
+![alt](https://github.com/Sorin05/Portofolio-2-project/blob/main/documents/page1.PNG?raw=true)
 
 ## Introduction
 This is a multiple trivia quiz about the show "The Big Bang Theory". This is a web based game that was created using HTML, CSS and JavaScript. Users of this game will need to answer the correct questions about the show!
@@ -28,6 +28,17 @@ This game is targeted towards people who are fans of the acclaimed tv series.
 
         - Font Awesome was also used in the creation of this project by providing the icons for all of the player options, navigation and audio buttons.
 
+* #### Wireframes
+
+I used Balsamiq to create wireframes of how the product would look as you can see I went for a very simple and easy to understand design.
+* Home Screen
+![alt](https://github.com/Sorin05/Portofolio-2-project/blob/main/documents/wireframe2.PNG?raw=true)
+* Game Screen
+![alt](https://github.com/Sorin05/Portofolio-2-project/blob/main/documents/wireframe1.PNG?raw=true)
+
+
+
+
 #### Game Screen
 
 - The Game screen is where users can experience the sites main game.
@@ -54,3 +65,16 @@ This game is targeted towards people who are fans of the acclaimed tv series.
 #### Browser Testing
 
 The site was tested on multiple browsers such as Chrome, Safari, FireFox, and works as intended.
+
+### Testing
+
+#### HTML
+
+[W3C HTML validator](https://validator.w3.org/nu/#textarea) was used to validate the sites HTML. 
+![alt](https://github.com/Sorin05/Portofolio-2-project/blob/main/documents/htmlTest.PNG?raw=true)
+
+
+#### CSS
+
+[W3C CSS Validator](https://jigsaw.w3.org/css-validator/validator) was used to validate CSS used to style the site.
+![alt](https://github.com/Sorin05/Portofolio-2-project/blob/main/documents/CSSvalidator.PNG?raw=true)
