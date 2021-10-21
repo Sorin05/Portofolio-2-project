@@ -33,6 +33,8 @@ This game is targeted towards people who are fans of the acclaimed tv series.
 I used Balsamiq to create wireframes of how the product would look as you can see I went for a very simple and easy to understand design.
 * Home Screen
 ![alt](https://github.com/Sorin05/Portofolio-2-project/blob/main/documents/wireframe2.PNG?raw=true)
+
+
 * Game Screen
 ![alt](https://github.com/Sorin05/Portofolio-2-project/blob/main/documents/wireframe1.PNG?raw=true)
 
