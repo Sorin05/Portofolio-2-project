@@ -73,10 +73,30 @@ The site was tested on multiple browsers such as Chrome, Safari, FireFox, and wo
 #### HTML
 
 [W3C HTML validator](https://validator.w3.org/nu/#textarea) was used to validate the sites HTML. 
+
 ![alt](https://github.com/Sorin05/Portofolio-2-project/blob/main/documents/htmlTest.PNG?raw=true)
 
 
 #### CSS
 
 [W3C CSS Validator](https://jigsaw.w3.org/css-validator/validator) was used to validate CSS used to style the site.
+
 ![alt](https://github.com/Sorin05/Portofolio-2-project/blob/main/documents/CSSvalidator.PNG?raw=true)
+
+
+
+### Deployment
+
+* GitHub Pages:
+
+    1. Log into GitHub.
+
+    2. Select the repository for the Code-Nect project. (https://github.com/Sorin05/Portofolio-2-project)
+
+    3. Navigate to and click on 'Settings'.
+
+    4. When the page has redirected, navigate to 'GitHub Pages' and proceed to click on the link.
+
+    5. Select branch to 'Main' from sources dropdown.
+
+    6. Click the generated link to the live site.
