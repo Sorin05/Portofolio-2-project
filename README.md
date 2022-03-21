@@ -100,3 +100,5 @@ The site was tested on multiple browsers such as Chrome, Safari, FireFox, and wo
     5. Select branch to 'Main' from sources dropdown.
 
     6. Click the generated link to the live site.
+
+### Credits
