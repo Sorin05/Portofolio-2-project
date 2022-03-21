@@ -1,5 +1,5 @@
 body {
-    background-image: url(assets/images/backgroundimage.jpg);
+    background-image: url(/assets/images/backgroundimage.jpg);
     
 }
 
@@ -67,6 +67,19 @@ h2 {
     border-radius: 5px;
 }
 
+
+#info-btn {
+    font-size: 2.4rem;
+    padding: 2rem 0;
+    text-align: center;
+    width: 30rem;
+    margin-bottom: 1rem;
+    text-decoration: none;
+    color: rgb(28, 26, 26);
+    background: linear-gradient(90deg, rgb(213, 224, 223) 0%, rgb(0, 255, 242)100%);
+    border-radius: 5px;
+}
+
 .btn:hover {
     cursor: pointer;
     box-shadow: 0 0.4rem 1.4rem 0 rgba(8, 114, 244 0.6);
@@ -85,7 +98,7 @@ h2 {
 }
 
 #highscore-btn:hover {
-    box-shadow: 0 00.4rem 1.4rem 0 rgba(255, 255, 0, 0.5);
+    box-shadow: 0 00.4rem 1.4rem 0 rgba(255, 255, 0, 0.904);
 }
 
 .fa-crown{
@@ -97,6 +110,15 @@ h2 {
     font-size: 2.5rem;
     margin-left: 1rem;
     
+}
+.fa-circle-info { 
+    font-size: 2.5rem;
+    margin-left: 1rem;
+}
+
+.fa-arrow-rotate-left {
+    font-size: 2.5rem;
+    margin-left: 1rem;
 }
 
 /* End Page CSS */
