@@ -1,6 +1,10 @@
 # Quiz Game!
 
-![alt](https://github.com/Sorin05/Portofolio-2-project/blob/main/documents/responsive.PNG?raw=true)
+![alt](documents/responsive.PNG)
+
+## Live Site 
+   
+   ![Live Site](https://sorin05.github.io/Portofolio-2-project/)
 
 ## Introduction
 This is a multiple trivia quiz about the character Sheldon Cooper from the show "The Big Bang Theory". This is a web based game that was created using HTML, CSS and JavaScript. Users of this game will need to answer the correct questions about Sheldon!
@@ -31,11 +35,11 @@ This game is targeted towards people who are fans of the acclaimed tv series.
 
 I used Balsamiq to create wireframes of how the product would look as you can see I went for a very simple and easy to understand design.
 * Home Screen
-![alt](https://github.com/Sorin05/Portofolio-2-project/blob/main/documents/wireframe2.PNG?raw=true)
+![alt](documents/wireframe2.PNG)
 
 
 * Game Screen
-![alt](https://github.com/Sorin05/Portofolio-2-project/blob/main/documents/wireframe1.PNG?raw=true)
+![alt](documents/wireframe1.PNG)
 
 
 
@@ -74,14 +78,14 @@ The site was tested on multiple browsers such as Chrome, Safari, FireFox, and wo
 
 [W3C HTML validator](https://validator.w3.org/nu/#textarea) was used to validate the sites HTML. 
 
-![alt](https://github.com/Sorin05/Portofolio-2-project/blob/main/documents/htmlTest.PNG?raw=true)
+![alt](documents/htmlTest.PNG)
 
 
 #### CSS
 
 [W3C CSS Validator](https://jigsaw.w3.org/css-validator/validator) was used to validate CSS used to style the site.
 
-![alt](https://github.com/Sorin05/Portofolio-2-project/blob/main/documents/CSSvalidator.PNG?raw=true)
+![alt](documents/CSSvalidator.PNG)
 
 
 
@@ -136,15 +140,15 @@ $ git clone https://github.com/Sorin05/Portofolio-2-project
 ### Game Screen Shots
 
 
-![alt](https://github.com/Sorin05/Portofolio-2-project/blop/main/documents/Screenshot1.PNG?raw=true)
+![alt](documents/Screenshot1.PNG)
 
-![alt](https://github.com/Sorin05/Portofolio-2-project/blop/main/documents/Screenshot2.PNG?raw=true)
+![alt](documents/Screenshot2.PNG)
 
-![alt](https://github.com/Sorin05/Portofolio-2-project/blop/main/documents/Screenshot3.PNG?raw=true)
+![alt](documents/Screenshot3.PNG)
 
-![alt](https://github.com/Sorin05/Portofolio-2-project/blop/main/documents/Screenshot4.PNG?raw=true)
+![alt](documents/Screenshot4.PNG)
 
-![alt](https://github.com/Sorin05/Portofolio-2-project/blop/main/documents/Screenshot5.PNG?raw=true)
+![alt](documents/Screenshot5.PNG)
 
 
 ### Credits
