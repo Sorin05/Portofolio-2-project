@@ -1,6 +1,6 @@
 # Quiz Game!
 
-![alt](https://github.com/Sorin05/Portofolio-2-project/blob/main/documents/amiresponsiveshelodon.PNG?raw=true)
+![alt](https://github.com/Sorin05/Portofolio-2-project/blob/main/documents/responsive.PNG?raw=true)
 
 ## Introduction
 This is a multiple trivia quiz about the character Sheldon Cooper from the show "The Big Bang Theory". This is a web based game that was created using HTML, CSS and JavaScript. Users of this game will need to answer the correct questions about Sheldon!
