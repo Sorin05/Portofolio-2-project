@@ -150,6 +150,6 @@ $ git clone https://github.com/Sorin05/Portofolio-2-project
 ### Credits
 
 1. Love Maths Code Institute project
-2. Youtube Dev Ed https://www.youtube.com/watch?v=Ttf3CEsEwMQ&ab_channel=DevEd
+2. Youtube  https://www.youtube.com/watch?v=Ttf3CEsEwMQ&ab_channel=DevEd
 3. StackOverFlow
-4. Slack 
+4. Slack community
