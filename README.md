@@ -133,6 +133,20 @@ $ git clone https://github.com/Sorin05/Portofolio-2-project
 > Unpacking objects: 100% (10/10), done.
 ```
 
+### Game Screen Shots
+
+
+![alt](https://github.com/Sorin05/Portofolio-2-project/blop/main/documents/Screenshot1.PNG?raw=true)
+
+![alt](https://github.com/Sorin05/Portofolio-2-project/blop/main/documents/Screenshot2.PNG?raw=true)
+
+![alt](https://github.com/Sorin05/Portofolio-2-project/blop/main/documents/Screenshot3.PNG?raw=true)
+
+![alt](https://github.com/Sorin05/Portofolio-2-project/blop/main/documents/Screenshot4.PNG?raw=true)
+
+![alt](https://github.com/Sorin05/Portofolio-2-project/blop/main/documents/Screenshot5.PNG?raw=true)
+
+
 ### Credits
 
 1. Love Maths Code Institute project
