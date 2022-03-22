@@ -1,9 +1,9 @@
 # Quiz Game!
 
-![alt](https://github.com/Sorin05/Portofolio-2-project/blob/main/documents/page1.PNG?raw=true)
+![alt](https://github.com/Sorin05/Portofolio-2-project/blob/main/documents/amiresponsiveshelodon.PNG?raw=true)
 
 ## Introduction
-This is a multiple trivia quiz about the show "The Big Bang Theory". This is a web based game that was created using HTML, CSS and JavaScript. Users of this game will need to answer the correct questions about the show!
+This is a multiple trivia quiz about the character Sheldon Cooper from the show "The Big Bang Theory". This is a web based game that was created using HTML, CSS and JavaScript. Users of this game will need to answer the correct questions about Sheldon!
 
 This game is targeted towards people who are fans of the acclaimed tv series.
 
@@ -21,12 +21,11 @@ This game is targeted towards people who are fans of the acclaimed tv series.
 * Create a quiz game site that is easy to navigate through.
 * Create a site that is simple in appearance by adding basic colours and layouts.
 * Provide the game with some humour for a more meaningful user experience.
-* If you have a big enough screen I added an "easter egg" or if you inspect the background ;)
 
 
-  * Icons:
+* Icons:
 
-        - Font Awesome was also used in the creation of this project by providing the icons for all of the player options, navigation and audio buttons.
+- Font Awesome was also used in the creation of this project by providing the icons for all of the player options, navigation and audio buttons.
 
 * #### Wireframes
 
