@@ -4,7 +4,7 @@
 
 ## Live Site 
    
-   ![Live Site](https://sorin05.github.io/Portofolio-2-project/)
+   [Live Site](https://sorin05.github.io/Portofolio-2-project/)
 
 ## Introduction
 This is a multiple trivia quiz about the character Sheldon Cooper from the show "The Big Bang Theory". This is a web based game that was created using HTML, CSS and JavaScript. Users of this game will need to answer the correct questions about Sheldon!
